@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
         MyPet goldfish = new MyPet();
 
+        goldfish.pet = " a goldfish";
         goldfish.name = "Love.";
         goldfish.gender = "lady";
         goldfish.weight = 0.5f;
